@@ -53,4 +53,4 @@
 <img src="readme_pic/p16.png" width="650" hight="450">
 
 ## HEATMAP (in %)
-<img src="readme_pic/p17.jpg" width="650" hight="450">
+<img src="readme_pic/p21.jpg" width="650" hight="450">

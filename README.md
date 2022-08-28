@@ -54,3 +54,7 @@
 
 ## HEATMAP (in %)
 <img src="readme_pic/p21.jpg" width="650" hight="450">
+
+> For web-scriping, please refer to : low-risk-investment and diff-crypto-exchange-platform folder
+
+> For visualization, please refer to : turning the result into dataframe&graph.ipynb

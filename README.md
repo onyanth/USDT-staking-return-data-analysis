@@ -1,3 +1,3 @@
-# USDT-staking-return-data-analysis![data analysis]
+# USDT-staking-return-data-analysis
 
 
